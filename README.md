@@ -6,7 +6,7 @@ Full stack web developer | Electric & Electrical engineer.
 
 *   🌍  I'm based in Nairobi, kenya
 *   ✉️  You can contact me at [omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)
-*   https://camo.githubusercontent.com/48e9360765724ca80990aea6e671a4cd4cea240f7e0b0a329951a774d9cadd0e/68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966
+*  
 
 ### Skills
 
