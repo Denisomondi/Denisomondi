@@ -7,7 +7,7 @@ Full stack web developer | Electric & Electrical engineer.
 *   🌍  I'm based in Nairobi, kenya
 *   ✉️  You can contact me at [omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)
 *  
-
+<img src="https://github.com/probot.png" class="img-responsive grayscale" alt="" />
 ### Skills
 
 
