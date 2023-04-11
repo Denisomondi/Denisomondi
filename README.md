@@ -8,6 +8,7 @@ Full stack web developer | Electric & Electrical engineer.
 *   ✉️  You can contact me at [omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)
 *  
 <img src="https://github.com/probot.png" class="img-responsive grayscale" alt="" />
+
 ### Skills
 
 
