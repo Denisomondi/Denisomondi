@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis omondi
 ====================================================================================================================================
 
-Full stack web developer | Electric & Electrical engineer.
+Full stack web developer | Electric & Electrical engineer | Android developer
 ----------------------------------------------------------
-
+|
 *   🌍  I'm based in Nairobi, kenya
 *   ✉️  You can contact me at [omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)
-*  
+
+----------------------------------------------------------
 ### Skills
 
 
