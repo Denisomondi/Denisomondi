@@ -5,7 +5,8 @@ Full stack web developer | Electric & Electrical engineer | Android developer
 ----------------------------------------------------------
 *   🌍  I'm based in Nairobi, kenya
 *   ✉️  You can contact me at [omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)
-*   certified google project manager
+*    certified google project manager
+===============================================================
 ### Skills
 
 <p align="left">
