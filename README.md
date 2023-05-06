@@ -7,6 +7,7 @@ Full stack web developer | Electrical & Electronic engineer | Android developer.
 *   ✉️  You can contact me at [omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)
 *    Certified google project manager.
 *    Graduated from [moringaschool](https://moringaschool.com/courses/software-engineering-course-online/?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCY3rY5hJhm0xHKFBCpP5u549ZXWd6W7eLh_HjdMsDwW9uy-uMsFxosaAtMpEALw_wcB)
+*    Student at [Chuka university](https://www.chuka.ac.ke/)
 
 ### Skills
 
