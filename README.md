@@ -16,7 +16,7 @@ I'm currently working at [moringaschool](https://moringaschool.com/courses/softw
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/denis-omondi-a21410252/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **Data Science**, **Cloud Development**, **Large scale system design**, and **Blockchain**.
 - 👯 Looking to collaborate on **Ruby on Rails Projects**.
-- 🥰 Building **an compassion webpage.
+- 🥰 Building **an compassion webpage**.
 #### What I like to disscuss about? 
 - 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
 
