@@ -18,6 +18,7 @@ I'm currently working at [moringaschool](https://moringaschool.com/courses/softw
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
