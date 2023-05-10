@@ -10,6 +10,16 @@ I'm currently working at [moringaschool](https://moringaschool.com/courses/softw
 *    Graduated from [moringaschool](https://moringaschool.com/courses/software-engineering-course-online/?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCY3rY5hJhm0xHKFBCpP5u549ZXWd6W7eLh_HjdMsDwW9uy-uMsFxosaAtMpEALw_wcB)
 *    Student at [Chuka university](https://www.chuka.ac.ke/)
 
+#### What I'm doing?
+- 🏢 Working at **[Moringa School](https://moringaschool.com/)** as a **cohort reprsentative**
+- 👨‍💻 Writing `Python` `Ruby on Rails` `SQL` `HTML` `CSS` `JavaScript` `React`.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/denis-omondi-a21410252/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
+- 📚 Currently learning about **Data Science**, **Cloud Development**, **Large scale system design**, and **Blockchain**.
+- 👯 Looking to collaborate on **Ruby on Rails Projects**.
+- 🥰 Building **an compassion webpage.
+#### What I like to disscuss about? 
+- 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
+
 ### Skills
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
