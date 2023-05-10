@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis omondi
 ====================================================================================================================================
 
-Full stack web developer | Electrical & Electronic engineer | Android developer.
+Full stack web developer | Electrical & Electronic engineer.
 ----------------------------------------------------------
 I'm currently working at [moringaschool](https://moringaschool.com/courses/software-engineering-course-online/?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCY3rY5hJhm0xHKFBCpP5u549ZXWd6W7eLh_HjdMsDwW9uy-uMsFxosaAtMpEALw_wcB) , striving to connect our African people to the future they envision for themselves.
 *   🌍  I'm based in Nairobi, kenya
