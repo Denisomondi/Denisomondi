@@ -31,4 +31,41 @@ I'm currently working at [moringaschool](https://moringaschool.com/courses/softw
 
 <b>Top Repositories</b>
 
+#### What my skill set looks like?
+- 🖥 **Front-end:** 
+  - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+  - **🔬 Frameworks:**  
+  - **🔬 Libraries:**  
+    - **🌐 Web:** • [React](https://reactjs.org/)
+- 🗄️ **Back-end:** 
+  - **📜 Languages:** • `🧙🏻‍♂️ Python` • `🧚 Ruby`
+@@ -34,7 +34,7 @@ Here are some ideas to get you started:
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- 🎡 **Software development ecosystem:**
+  - **📁 Code repository:** • [Git](https://git-scm.com/)
+  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards)
+  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Asana](https://asana.com/) • [Trello](https://trello.com/)
+  - **🗂 CI/CD:** • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+- 🧙‍♂️ **Coding pattern & principles:**
+  - **⚒ Patterns:** • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+  - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID)
+  
+- **🏗️ Code editors:**
+<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
+  https://github.com/mwiks-dev
+#### What's interesting about me?  
+  - 😎 I am an **Ambivert** and I can speak **English** and **Swahili** in multiple accents.
+<!--Github Stats-->
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwiks-dev" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwiks-dev"/>
+</p>
+#### What companies have I worked for?
+<p left="center">
+  <a href="https://moringaschool.com/">
+    <img src="https://imgs.search.brave.com/YpBrlTKFEDPRzrMSR7blBM7DIzTw0wpXB3evHp-bdoI/rs:fit:200:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/eHZ2bm8zMndzWW5O/N2t2TTJNaVF3QUFB/QSZwaWQ9QXBp" height=70>
+    </a> 
+  <a href="https://www.linkedin.com/company/united-states-of-africa/">
+
+
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
