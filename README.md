@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack web developer | Electrical & Electronic engineer.
 ----------------------------------------------------------
 I'm currently working self emplyment, striving to connect our African people to the future they envision for themselves.
-*   🌍  I'm based in Nairobi, kenya
 *   ✉️  You can contact me at **[omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)**
 #### What I'm doing?
 - 🏢 Working at **[Moringa School](https://moringaschool.com/)** as a **cohort reprsentative**
