@@ -1,8 +1,6 @@
-
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis omondi
 ====================================================================================================================================
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 Full stack web developer | Electrical & Electronic engineer.
 ----------------------------------------------------------
