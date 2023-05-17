@@ -1,10 +1,10 @@
 
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
-<h1 align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis omondi</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis omondi
 ====================================================================================================================================
 
-<h1 align="center">Full stack web developer | Electrical & Electronic engineer.</h1>
+Full stack web developer | Electrical & Electronic engineer.
 ----------------------------------------------------------
 I'm currently working selfemplyment, striving to connect our African people to the future they envision for themselves.
 *   🌍  I'm based in Nairobi, kenya
