@@ -5,6 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack web developer | Electrical & Electronic engineer.
 ----------------------------------------------------------
 I'm currently working self emplyment, striving to connect our African people to the future they envision for themselves.
+- Have 1+ years of hands-on experience in **Software Development** and 2 year experience in **Electronics engineering.**
+- Have built **Web** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
 #### What I'm doing?
 - 🏢 Working at **[Moringa School](https://moringaschool.com/)** as a **cohort reprsentative**
 - 👨‍💻 Writing `Python` `Ruby on Rails` `SQL` `HTML` `CSS` `JavaScript` `React`.
