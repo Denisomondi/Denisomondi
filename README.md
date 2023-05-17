@@ -9,9 +9,6 @@ Full stack web developer | Electrical & Electronic engineer.
 I'm currently working selfemplyment, striving to connect our African people to the future they envision for themselves.
 *   🌍  I'm based in Nairobi, kenya
 *   ✉️  You can contact me at [omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)
-*    Graduated from [moringaschool](https://moringaschool.com/courses/software-engineering-course-online/?gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCY3rY5hJhm0xHKFBCpP5u549ZXWd6W7eLh_HjdMsDwW9uy-uMsFxosaAtMpEALw_wcB)
-*    Student at [Chuka university](https://www.chuka.ac.ke/)
-
 #### What I'm doing?
 - 🏢 Working at **[Moringa School](https://moringaschool.com/)** as a **cohort reprsentative**
 - 👨‍💻 Writing `Python` `Ruby on Rails` `SQL` `HTML` `CSS` `JavaScript` `React`.
