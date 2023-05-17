@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack web developer | Electrical & Electronic engineer.
 ----------------------------------------------------------
 I'm currently working self emplyment, striving to connect our African people to the future they envision for themselves.
-*   ✉️  You can contact me at **[omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)**
 #### What I'm doing?
 - 🏢 Working at **[Moringa School](https://moringaschool.com/)** as a **cohort reprsentative**
 - 👨‍💻 Writing `Python` `Ruby on Rails` `SQL` `HTML` `CSS` `JavaScript` `React`.
@@ -13,6 +12,7 @@ I'm currently working self emplyment, striving to connect our African people to 
 - 📚 Currently learning about **Data Science**, **Cloud Development**, **Large scale system design**, and **Blockchain**.
 - 👯 Looking to collaborate on **Ruby on Rails Projects**.
 - 🥰 Building **an compassion webpage**.
+- ✉️  You can contact me at **[omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)**
 #### What I like to disscuss about? 
 - 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
 
