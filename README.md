@@ -72,14 +72,5 @@ https://github.com/Denisomondi
 
 <b>Top Repositories</b>
 
-
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
- #### How to get in touch with me?
-<p left="center">
-<a href="ttps://www.linkedin.com/in/denis-omondi-a21410252/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
-<a href="[omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-</p>
+ 
