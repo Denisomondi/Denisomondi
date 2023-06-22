@@ -8,7 +8,7 @@ I'm currently working self emplyment, striving to connect our African people to 
 - Have 1+ years of hands-on experience in **Software Development** and 2 year experience in **Electronics engineering.**
 - Have built **Web** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
 #### What I'm doing?
-- 🏢 Working at **[Moringa School](https://moringaschool.com/)** as a **cohort reprsentative**
+- 🏢 Worked at **[Moringa School](https://moringaschool.com/)** as a **cohort reprsentative**
 - 👨‍💻 Writing `Python` `Ruby on Rails` `SQL` `HTML` `CSS` `JavaScript` `React`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/denis-omondi-a21410252/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **Data Science**, **Cloud Development**, **Large scale system design**, and **Blockchain**.
