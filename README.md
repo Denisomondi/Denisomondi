@@ -71,11 +71,7 @@ https://github.com/Denisomondi
    </div>
   <div class="container" align="center">
 <a href="https://github.com/Denisomondi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisomondi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
-<div class="container" align="center">
-  <img style="height: auto; width: 100%;" src="https://media.tenor.com/ZwbmKH038isAAAAd/thanos-snap.gif" alt="thanos" />
-</div>
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />  
+</div> 
 <div class="container" align="center">
  <h3>INSPIRED HEROES</h3>
   <hr>
@@ -87,3 +83,7 @@ https://github.com/Denisomondi
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/fe/96/ac/fe96ac7a018650bfee35aaade3eba067.jpg" alt="elon" />
 </div>
  
+<div class="container" align="center">
+  <img style="height: auto; width: 100%;" src="https://media.tenor.com/ZwbmKH038isAAAAd/thanos-snap.gif" alt="thanos" />
+</div>
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />  
