@@ -60,18 +60,12 @@ https://github.com/Denisomondi
 
 ### Socials<p align="left"> <a href="https://www.github.com/Denisomondi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/denis-omondi-a21410252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/denisomondi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DenisOmond38254" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-<div class="container" align="center">
 <a href="http://www.github.com/Denisomondi"><img src="https://github-readme-stats.vercel.app/api?username=Denisomondi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Denisomondi's GitHub stats" /></a>
-  </div>
-<div class="container" align="center">
+
 <a href="http://www.github.com/Denisomondi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Denisomondi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-   </div>
-  <div class="container" align="center">
+
 <a href="https://github.com/Denisomondi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisomondi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div> 
+
 <div class="container" align="center">
  <h3>INSPIRED HEROES</h3>
   <hr>
@@ -82,8 +76,7 @@ https://github.com/Denisomondi
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/f4/ce/bf/f4cebf7f7467f025a8e84a549ac87540.jpg" alt="jobs" />
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/fe/96/ac/fe96ac7a018650bfee35aaade3eba067.jpg" alt="elon" />
 </div>
- 
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />  
 <div class="container" align="center">
   <img style="height: auto; width: 100%;" src="https://media.tenor.com/ZwbmKH038isAAAAd/thanos-snap.gif" alt="thanos" />
 </div>
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />  
