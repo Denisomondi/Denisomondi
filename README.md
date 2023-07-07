@@ -72,5 +72,14 @@ https://github.com/Denisomondi
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />  
+ <h3>INSPIRED HEROES</h3>
+  <hr>
+  <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/ef/95/71/ef9571be608ba91555491782e7a6d9ed.jpg" alt="einstein" />
+  <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/00/f2/ce/00f2ce959e16610876c75debdfde58de.jpg" alt="oppenheimer" />
+  <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/28/43/dc/2843dce97ab237c3cddaed9ed545d964.jpg" alt="tesla" />
+  <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/18/9c/2d/189c2d451bb0e0d0b262bb510fb42586.jpg" alt="hawkings" />
+  <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/f4/ce/bf/f4cebf7f7467f025a8e84a549ac87540.jpg" alt="jobs" />
+  <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/fe/96/ac/fe96ac7a018650bfee35aaade3eba067.jpg" alt="elon" />
+</div>
  
