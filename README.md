@@ -13,7 +13,7 @@ I'm currently working self emplyment, striving to connect our African people to 
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/denis-omondi-a21410252/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **Data Science**, **Cloud Development**, **Large scale system design**, and **Blockchain**.
 - 👯 Looking to collaborate on **Ruby on Rails Projects**.
-- 🥰 Building **[Movie-website](https://ke-mohia.github.io/MoviePlay/)**[cocktailhaven](https://spectacular-horse-9b534a.netlify.app/)** as a Project.
+- 🥰 Building **[Movie-website](https://ke-mohia.github.io/MoviePlay/)** & **[Cocktailhaven](https://spectacular-horse-9b534a.netlify.app/)** as a Project.
 - ✉️  You can contact me at **[omondidenisodimo@gmail.com](mailto:omondidenisodimo@gmail.com)**
 #### What I like to disscuss about? 
 - 💬 Ask me about `Web APIs` `System design` `Scalability` `Design patterns` `Data structures` `Clean code` `Requirement Analysis` `Choice of Frameworks` and `Tech Culture`.
